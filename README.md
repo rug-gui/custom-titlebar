@@ -1,2 +1,2 @@
 # custom-titlebar
-Create Custom Title bar in any Python GUI Framework like Tkinter
+Create Custom Title bar in any Python GUI Framework like Tkinter PyQt or PySimpleGUI
